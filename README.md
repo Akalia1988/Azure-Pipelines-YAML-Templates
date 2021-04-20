@@ -1,4 +1,4 @@
-# Azure-Pipelines-YAML-Templates
+# Azure-Pipelines-YAML-Templates for React.JS front-end, Node JS, Sonarcube and docker image 
 
 Using YAML templates, you can define reusable content, logic, and parameters in separate templates that load into your pipeline at runtime. You can divide these templates into one of these four categories:
 Stage: define a set of stages for related jobs
